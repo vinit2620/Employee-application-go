@@ -1,0 +1,7 @@
+.git
+.gitignore
+employee-app
+*.log
+.env
+k8s/
+docker-compose.yml

@@ -1,0 +1,25 @@
+# Go binaries & test outputs
+employee-app
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+coverage.*
+
+# Local environment & secret overrides
+.env
+.env.*
+*.local
+
+# Editor & OS files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Temporary logs
+*.log
